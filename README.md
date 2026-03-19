@@ -20,7 +20,7 @@ LuxureTV Downloader is a browser extension for users who want a more direct way 
 
 ## Preview
 
-![LuxureTV Downloader workflow preview](assets/workflow-preview.svg)
+![LuxureTV Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
