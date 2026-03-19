@@ -136,19 +136,19 @@ Start here: [https://serp.ly/luxuretv-downloader](https://serp.ly/luxuretv-downl
 
 ## FAQ
 
-**Can I download LuxureTV videos directly from the page**  
+**Can I download LuxureTV videos directly from the page?**  
 Yes. Supported video pages can be downloaded directly through the extension.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Can I choose the quality**  
+**Can I choose the quality?**  
 Yes. The extension lists the stream variants exposed by the source page.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location, typically inside a LUXURETV subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
