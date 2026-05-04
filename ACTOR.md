@@ -1,6 +1,10 @@
-# LuxureTV Downloader
+# Luxuretv Video Downloader | How to Download Luxuretv Videos
 
 > Download supported LuxureTV videos as MP4 files from the browser with direct quality selection.
+
+## Get it Here
+
+Get it here: https://serp.ly/luxuretv-downloader
 
 ![Luxuretv Downloader](https://raw.githubusercontent.com/serpxxx/luxuretv-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ LuxureTV Downloader is a browser extension for users who want a more direct way 
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/luxuretv-downloader
-
 ## Table of Contents
 
 - [Why LuxureTV Downloader](#why-luxuretv-downloader)
